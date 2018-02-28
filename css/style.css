@@ -48,3 +48,7 @@ h1 {
     opacity: 1;
     -webkit-transform: translateY(0);
     transform: translateY(0); } }
+
+@media (max-width: 414px) {
+  h1 {
+    font-size: 60px; } }
